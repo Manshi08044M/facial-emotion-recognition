@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local TensorFlow / Keras cache
+.keras/
+
+# Raw and personal datasets
+dataset/
+personal_dataset/
+
+# Temporary experiment models and labels
+smoke_*.keras
+smoke_*.json
+mobilenet_emotion_model.keras
+
+# Temporary experiment reports
+reports/smoke/
+reports/weighted_smoke/
+reports/mobilenet_smoke/
+reports/training_history.csv
