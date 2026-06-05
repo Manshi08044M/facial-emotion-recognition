@@ -14,6 +14,10 @@ seven-class facial emotion recognition model for images and live webcam video.
 
 **Developed by [Manshi Verma](https://github.com/Manshi08044M)**
 
+[View Project Report](reports/report.pdf) ·
+[Explore Source Code](code) ·
+[See Experiment Results](reports)
+
 </div>
 
 ---
@@ -261,4 +265,3 @@ final MobileNetV2 layers before a custom dense classification head.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
